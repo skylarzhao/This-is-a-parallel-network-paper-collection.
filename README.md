@@ -4,8 +4,6 @@ This is a repository that collects parallel network papers.
 
 # Table of Contents
 
-<<<<<<< HEAD
-
 
 ## List
 
